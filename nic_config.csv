@@ -1,0 +1,15 @@
+"Computername","Name","MAC","DHCP","AddressFamily","IPAddress","PrefixLength","Type","DefaultGateway","DnsServerAddresses"
+"host-01","HV_MGMT_01","00-17-A4-77-01-21",,,,,,,
+"host-01","HV_MGMT_02","00-17-A4-77-01-22",,,,,,,
+"host-01","HV_TRUNK - LM-HB",,"FALSE","ipv4","10.5.201.1","24",,,
+"host-01","HV_TRUNK - CSV",,"FALSE","ipv4","10.5.202.1","24",,,
+"host-01","HV_TRUNK - VLAN 433",,"FALSE","ipv4","10.5.204.1","24",,"10.5.204.254","8.8.8.8"
+"host-01","HV_VM_TRUNK_01","00-17-A4-77-01-23",,,,,,,
+"host-01","HV_VM_TRUNK_02","00-17-A4-77-01-24",,,,,,,
+"host-02","HV_MGMT_01","00-17-A4-77-01-31",,,,,,,
+"host-02","HV_MGMT_02","00-17-A4-77-01-32",,,,,,,
+"host-02","HV_TRUNK - LM-HB",,"FALSE","ipv4","10.5.201.2","24",,,
+"host-02","HV_TRUNK - CSV",,"FALSE","ipv4","10.5.202.2","24",,,
+"host-02","HV_TRUNK - VLAN 433",,"FALSE","ipv4","10.5.204.2","24",,"10.5.204.254","8.8.8.8"
+"host-02","HV_VM_TRUNK_01","00-17-A4-77-01-33",,,,,,,
+"host-02","HV_VM_TRUNK_02","00-17-A4-77-01-34",,,,,,,
